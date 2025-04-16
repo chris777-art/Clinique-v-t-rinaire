@@ -1,2 +1,2 @@
-# Clinique-v-t-rinaire
+# Clinique-veterinaire
 Projet de développement d'un petit site web pour une clinique vétérinaire
